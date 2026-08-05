@@ -1,8 +1,9 @@
 {
   "name": "nexo-mvp-backend",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "private": true,
   "type": "commonjs",
   "scripts": {"start":"node server.js"},
-  "engines": {"node": ">=20"}
+  "engines": {"node": ">=20"},
+  "dependencies": {"pg":"^8.13.1"}
 }
