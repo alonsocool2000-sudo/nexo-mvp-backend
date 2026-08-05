@@ -1,0 +1,4 @@
+nexo-mvp-data.json
+nexo-mvp-data.json.tmp
+node_modules
+*.log
